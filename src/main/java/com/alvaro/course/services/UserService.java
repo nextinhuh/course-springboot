@@ -10,7 +10,7 @@ import com.alvaro.course.entities.User;
 import com.alvaro.course.repositories.UserRepository;
 
 @Service
-public class UsersService {
+public class UserService {
 	
 	@Autowired
 	private UserRepository repository;
